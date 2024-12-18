@@ -1,13 +1,16 @@
 # DEAW - BirtLH
 
+## Tarea de Evaluación 01. Trabajando con servidores FTP
+
 ## Repositorio para UD3 - TE01
 
-Recursos disponibles para esta tarea:
++ Alumno: Sergio Moreno Sanchez
++ email: smoreno@birt.eus
++ fecha: 16/12/2024
 
-- **Recursos Contenedor 1 -** Contenido de la carpeta /srv/ftp
-- **Recursos Contenedor 2 -** Contenido de la carpeta /srv/deaw
+## Entrega:
++ Contenedor 1: dockerfile y todos los archivos necesarios para generar la imagen.
++ Contenedor 2: dockerfile y todos los archivos necesarios para generar la imagen.
 
-## Entrega
-Ficheros requeridos:
-- **Contenedor 1**: Se guardarán todos los ficheros necesarios para el despliegue del Contenedor 1 del enunciado.
-- **Contenedor 2**: Se guardarán todos los ficheros necesarios para el despliegue del Contenedor 2 del enunciado.
+## Vídeo autoevaluación:
++ [Autoevaluación en Youtube](https://www.youtube.com/watch?v=_Xxih1EvSDA)
